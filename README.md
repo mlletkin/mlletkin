@@ -15,7 +15,7 @@ I'm Golang/Dart developer from Russia (Republic of Bashkortostan)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-blue?style=flat-square&logo=rabbitmq)
 
   <!-- - 🔭 I’m currently working on ... -->
-  - 🌱 I’m currently learning 
+  - 🌱 I’m currently learning architectural patterns
   - 🤔 I'm looking for a mentor who will help evaluate my knowledge and experience as golang dev
   
   
