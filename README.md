@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Golang/Dart developer from Russia (Republic of Bashkortostan)
+golang/dart enjoyer
 
 ### tech stack:
   
