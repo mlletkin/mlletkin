@@ -1,8 +1,4 @@
-### Hi there 👋
-
-golang/dart enjoyer
-
-### tech stack:
+### Hi
   
   ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go)
   ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
@@ -13,13 +9,9 @@ golang/dart enjoyer
   ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
   ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-blue?style=flat-square&logo=rabbitmq)
-
-  <!-- - 🔭 I’m currently working on ... -->
-  - 🌱 I’m currently learning architectural patterns
-  - 🤔 I'm looking for a mentor who will help evaluate my knowledge and experience as golang dev
   
   
-📫 How to reach me:
+📫:
   - LinkedIn: [kavkazov](https://www.linkedin.com/in/kavkazov/)
   - Email: kavkazov@hotmail.com
   - Telegram: [mletkin](https://t.me/mletkin)
