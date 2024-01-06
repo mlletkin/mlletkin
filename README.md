@@ -1,4 +1,4 @@
-### Golang/Dart enjoyer | OzonTech worker
+### Golang/Dart enjoyer
   
   ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go)
   ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
